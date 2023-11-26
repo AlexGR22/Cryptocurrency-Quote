@@ -1,0 +1,10 @@
+ #9497ff ; celeste
+ #7a7dfe : celeste oscuro
+ #66A2FE : celeste renglon
+ #0d2235
+
+
+ #FF9797
+#FE7A7A
+#FE6666
+#350D0D
