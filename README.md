@@ -1,21 +1,3 @@
-
-
-## Características
-
-- Muestra las cotizaciones de precios de criptomonedas populares como Bitcoin, Ethereum, Litecoin, etc.
-- Permite seleccionar la moneda fiduciaria en la que deseas ver las cotizaciones.
-- Actualiza automáticamente las cotizaciones en tiempo real.
-- Interfaz de usuario intuitiva y fácil de usar.
-
-
-## Tecnologías utilizadas
-
-- React
-- Vite
-- Axios
-- Styled Components
-- API de cotización de criptomonedas
-
 # Cotizador de Criptomonedas
 
 Este es un cotizador de criptomonedas, una herramienta que te permite obtener cotizaciones de precios en tiempo real para diferentes criptomonedas.
